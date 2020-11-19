@@ -1,1 +1,2 @@
 This is new txt file called hello2
+Added another line from git bash
